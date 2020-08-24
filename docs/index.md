@@ -1,6 +1,4 @@
-Welcome to the Nifty Web Apps[^1] tutorial: **learn how to build a simple web app for any console-based programming assignment**.
-
-[^1]: All materials are open-source on GitHub: [kevinlin1/nifty-web-apps](https://github.com/kevinlin1/nifty-web-apps).
+Welcome to the Nifty Web Apps tutorial: **learn how to build a simple web app for any console-based programming assignment**. All materials are open source on GitHub: [kevinlin1/nifty-web-apps](https://github.com/kevinlin1/nifty-web-apps).
 
 *[IDE]: Integrated Development Environment
 
