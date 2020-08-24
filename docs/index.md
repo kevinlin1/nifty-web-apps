@@ -4,11 +4,19 @@ Welcome to the Nifty Web Apps[^1] tutorial: **learn how to build a simple web ap
 
 *[IDE]: Integrated Development Environment
 
-In this tutorial, we'll **use, modify, and create** ([Lytle et al. 2019](https://doi.org/10.1145/3304221.3319786)) simple web apps that take a string query and return a list of results.
+In this tutorial, we'll **use, modify, and create** ([Lytle et al. 2019](https://doi.org/10.1145/3304221.3319786)) simple web apps that take a string query and return a list of results. We offer the tutorial in two programming languages: Python and Java.
 
-1. Use **Autocorrect**
-1. Modify **Random Sentence Generator** ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~zelenski/rsg/))
-1. Create **Autocomplete** ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
+Autocorrect
+: Python or Java
+
+Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~zelenski/rsg/))
+: Python or Java
+
+Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
+: Python or Java
+
+Deploy your app for free
+: Python or Java
 
 The [Autocomplete web app](https://autocomplete-me.herokuapp.com/) takes a string prefix and displays the list of matches on top of Google Maps. Compare it to the console input/output and desktop GUI app.
 
