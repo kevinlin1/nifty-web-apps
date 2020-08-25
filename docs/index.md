@@ -7,11 +7,15 @@ In this tutorial, we'll **use, modify, and create** ([Lytle et al. 2019](https:/
 Autocorrect
 : [Python](autocorrect/python.md) or [Java](autocorrect/java.md)
 
-Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~zelenski/rsg/))
+Random Sentence Generator ([Zelenski 1999][])
 : [Python](random-sentence-generator/python.md) or [Java](random-sentence-generator/java.md)
 
-Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
+[Zelenski 1999]: http://www-cs-faculty.stanford.edu/~zelenski/rsg/
+
+Autocomplete ([Wayne 2016][])
 : [Python](autocomplete/python.md) or [Java](autocomplete/java.md)
+
+[Wayne 2016]: http://nifty.stanford.edu/2016/wayne-autocomplete-me/
 
 Using DevTools
 : [Build better sites faster with Chrome DevTools](https://youtu.be/VYyQv0CSZOE), and use DevTools to inspect the full [Autocomplete web app][].
@@ -21,14 +25,15 @@ Deploy your app for free
 
 [Autocomplete web app]: https://autocomplete-me.herokuapp.com/
 
-The [Autocomplete web app][] takes a string prefix and displays the list of matches on top of Google Maps. Compare it to the console input/output and desktop GUI app.
-
-*[GUI]: Graphical User Interface
+The [Autocomplete web app][] takes a string prefix and displays the list of matches on top of Google Maps. Compare the web app with the desktop app and the console app.
 
 Web app
 : ![Autocomplete web app](autocomplete-web.png)
 
-Console input/output
+Desktop app ([Wayne 2016][])
+: ![Autocomplete desktop app](autocomplete-gui.png)
+
+Console app
 : ```
   Query: Sea
   608660 Seattle, Washington, United States
@@ -39,6 +44,3 @@ Console input/output
 
   Query:
   ```
-
-Desktop GUI (Java Swing)
-: ![Autocomplete desktop app](autocomplete-gui.png)
