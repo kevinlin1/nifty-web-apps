@@ -1,0 +1,6 @@
+[submodule "java"]
+	path = java
+	url = https://github.com/kevinlin1/nifty-web-apps-java
+[submodule "python"]
+	path = python
+	url = https://github.com/kevinlin1/nifty-web-apps-python
