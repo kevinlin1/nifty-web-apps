@@ -5,7 +5,7 @@ Welcome to the Nifty Web Apps tutorial: **learn how to build a simple web app fo
 In this tutorial, we'll **use, modify, and create** ([Lytle et al. 2019](https://doi.org/10.1145/3304221.3319786)) simple web apps that take a string query and return a list of results. We offer the tutorial in two programming languages: Python and Java.
 
 Autocorrect
-: Python or Java
+: [Python](autocorrect/python.md) or [Java](autocorrect/java.md)
 
 Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~zelenski/rsg/))
 : Python or Java
