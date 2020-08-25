@@ -11,7 +11,7 @@ Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~z
 : [Python](random-sentence-generator/python.md) or [Java](random-sentence-generator/java.md)
 
 Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
-: Python or Java
+: [Python](autocomplete/python.md) or [Java](autocomplete/java.md)
 
 Deploy your app for free
 : [Python](deploy/python.md) or [Java](deploy/java.md)
