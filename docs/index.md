@@ -8,7 +8,7 @@ Autocorrect
 : [Python](autocorrect/python.md) or [Java](autocorrect/java.md)
 
 Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~zelenski/rsg/))
-: Python or Java
+: [Python](random-sentence-generator/python.md) or [Java](random-sentence-generator/java.md)
 
 Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
 : Python or Java
