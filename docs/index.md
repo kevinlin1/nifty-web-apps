@@ -13,10 +13,15 @@ Random Sentence Generator ([Zelenski 1999](http://www-cs-faculty.stanford.edu/~z
 Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/))
 : [Python](autocomplete/python.md) or [Java](autocomplete/java.md)
 
+Using DevTools
+: [Build better sites faster with Chrome DevTools](https://youtu.be/VYyQv0CSZOE), and use DevTools to inspect the full [Autocomplete web app][].
+
 Deploy your app for free
 : [Python](deploy/python.md) or [Java](deploy/java.md)
 
-The [Autocomplete web app](https://autocomplete-me.herokuapp.com/) takes a string prefix and displays the list of matches on top of Google Maps. Compare it to the console input/output and desktop GUI app.
+[Autocomplete web app]: https://autocomplete-me.herokuapp.com/
+
+The [Autocomplete web app][] takes a string prefix and displays the list of matches on top of Google Maps. Compare it to the console input/output and desktop GUI app.
 
 *[GUI]: Graphical User Interface
 
