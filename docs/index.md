@@ -14,7 +14,7 @@ Autocomplete ([Wayne 2016](http://nifty.stanford.edu/2016/wayne-autocomplete-me/
 : Python or Java
 
 Deploy your app for free
-: Python or Java
+: [Python](deploy/python.md) or [Java](deploy/java.md)
 
 The [Autocomplete web app](https://autocomplete-me.herokuapp.com/) takes a string prefix and displays the list of matches on top of Google Maps. Compare it to the console input/output and desktop GUI app.
 
