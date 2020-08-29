@@ -2,3 +2,12 @@ title: Nifty Web Apps
 author: Kevin Lin
 description: Build a Web App for Any Programming Assignment
 permalink: pretty
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/docs"
+  repository_url: "https://github.com/kevinlin1/nifty-web-apps"
