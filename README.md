@@ -15,3 +15,9 @@ Follow the tutorial online at [kevinl.info/nifty-web-apps](https://kevinl.info/n
 Tutorial issues and pull requests are welcome on GitHub at [kevinlin1/nifty-web-apps](https://github.com/kevinlin1/nifty-web-apps).
 
 To contribute a new language, create a new personal repository entitled, `nifty-web-apps-LANGUAGE` with the contents of your project. Then, open an issue or pull request to get it added to this central repository.
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE).
+
+The source code for each language variation is licensed separately.
