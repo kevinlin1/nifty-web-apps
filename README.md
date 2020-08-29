@@ -9,3 +9,9 @@ While many students now interact with web apps across a variety of smart devices
 ## Getting started
 
 Follow the tutorial online at [kevinl.info/nifty-web-apps](https://kevinl.info/nifty-web-apps/).
+
+## Contributing
+
+Tutorial issues and pull requests are welcome on GitHub at [kevinlin1/nifty-web-apps](https://github.com/kevinlin1/nifty-web-apps).
+
+To contribute a new language, create a new personal repository entitled, `nifty-web-apps-LANGUAGE` with the contents of your project. Then, open an issue or pull request to get it added to this central repository.
